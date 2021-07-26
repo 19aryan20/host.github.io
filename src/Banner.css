@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  object-fit: contain;
+  height: 400px;
+}
+.info {
+  color: white;
+  font-weight: 900;
+  width: 30%;
+  padding-top: 13vh;
+  padding-left: 7vw;
+}
+button {
+  margin: 5%;
+  width: 20%;
+  height: 5vh;
+  background-color: rgb(109, 109, 109);
+  border: 1px solid rgba(0, 0, 0, 0);
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
